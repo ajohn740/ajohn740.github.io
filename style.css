@@ -4,7 +4,7 @@ body{
 }
 
 main{
-    color: #E78EA5;
+    background-color: #E78EA5;
 }
 
 #logo {
@@ -28,7 +28,7 @@ body > header{
 }
 
 body > header > nav > ul {
-    list-style: none;
+    
 }
 
 #nav-ul {
