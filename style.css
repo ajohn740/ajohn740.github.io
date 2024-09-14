@@ -3,16 +3,14 @@ body{
     margin: 0px;
 }
 
-main{
-    background-color: #E78EA5;
-}
+
 
 #logo {
     margin: 0px;
     padding: 8px;
     font-family: "Fredoka One" , sans-serif;
     width: 16%;
-    background-color: rgb(159, 156, 156);
+    background-color: pink;
 }
 
 ul {
@@ -20,7 +18,7 @@ ul {
 }
 
 body > header{
-    color: black; 
+    color: grey; 
     display: flex;
     height: 15vh;
     align-items: center;
@@ -33,7 +31,7 @@ body > header > nav > ul {
 }
 
 #nav-ul {
-    background-color: rgb(159, 156, 156);
+    background-color: pink;
     display: flex;
 }
 
@@ -42,16 +40,20 @@ body > header > nav > ul {
     margin: 16px;
 }
 .navbutton {
-    color: black;
+    color: grey;
     text-decoration: none;
     padding: 12px;
-    border: 1px solid black;
+    border: 1px solid grey;
     border-radius: 10%;
 }
 
 body > main article {
     width: 70%;
     margin: auto;
+}
+
+#article1 {
+    border: 1px solid black;  
 }
 
 #main-content {
@@ -72,7 +74,7 @@ h2 {
 }
 
 body > footer{
-    background-color: rgb(159, 156, 156);
+    background-color: pink;
     display: flex;
 }
 
@@ -84,7 +86,7 @@ body > footer{
 
 #footer-ul > div > h3 > li {
     margin-left: 15px;
-    color: black;
+    color: grey;
     text-decoration: none;
 }
 
