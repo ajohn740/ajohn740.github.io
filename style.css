@@ -37,10 +37,10 @@ body > header > nav > ul {
     margin: 16px;
 }
 .navbutton {
-    color: white;
+    color: #373737;
     text-decoration: none;
     padding: 12px;
-    border: 1px solid white;
+    border: 1px solid #373737;
     border-radius: 10%;
 }
 
@@ -67,7 +67,7 @@ h2 {
 }
 
 body > footer{
-    background-color: orange;
+    background-color: #ee5f85;
     display: flex;
 }
 
