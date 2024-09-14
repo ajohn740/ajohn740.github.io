@@ -25,9 +25,9 @@ content {
     background-color: pink;
 }
 
-#main-content > aside {
-    display: flex
-    
+#nav-ul {
+    display: flex;
+    justify-content: center;
 }
 
 ul {
