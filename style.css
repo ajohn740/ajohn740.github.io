@@ -7,18 +7,25 @@ content {
       "footer footer footer" auto;
   }
 
+#content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
   body{
     font-family: Helvetica, Arial, sans-serif;
     margin: 0px;
 }
 
-header{
+#main-header{
     background-color: pink;
 }
 
+
 #logo {
     margin: 0px;
-    padding: 8px;
+    padding: 6px;
     font-family: "Fredoka One" , sans-serif;
     width: 16%;
     background-color: pink;
