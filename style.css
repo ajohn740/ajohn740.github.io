@@ -8,6 +8,7 @@ body{
     padding: 8px;
     font-family: "Fredoka One" , sans-serif;
     width: 16%;
+    background-color: pink;
 }
 
 ul {
@@ -15,7 +16,6 @@ ul {
 }
 
 body > header{
-    background-color: pink;
     color: #373737; 
     display: flex;
     height: 15vh;
@@ -29,6 +29,7 @@ body > header > nav > ul {
 }
 
 #nav-ul {
+    background-color: pink;
     display: flex;
 }
 
