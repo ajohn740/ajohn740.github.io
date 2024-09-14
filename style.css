@@ -12,7 +12,9 @@ content {
     margin: 0px;
 }
 
-
+header{
+    background-color: pink;
+}
 
 #logo {
     margin: 0px;
