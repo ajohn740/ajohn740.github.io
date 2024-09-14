@@ -3,6 +3,10 @@ body{
     margin: 0px;
 }
 
+main{
+    color: #E78EA5;
+}
+
 #logo {
     margin: 0px;
     padding: 8px;
@@ -25,7 +29,6 @@ body > header{
 
 body > header > nav > ul {
     list-style: none;
-    text-decoration: none;
 }
 
 #nav-ul {
