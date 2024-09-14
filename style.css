@@ -96,6 +96,7 @@ body > footer{
     margin-left: 15px;
     color: grey;
     text-decoration: none;
+    justify-content: flex-end;
 }
 
 
