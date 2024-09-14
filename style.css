@@ -25,7 +25,7 @@ content {
     background-color: pink;
 }
 
-#section {
+#topic-ul {
     display: flex;
     justify-content: center;
 }
