@@ -3,7 +3,7 @@ content {
     gap: 10px;
     grid-template:
       "header header header" auto
-      "main-content content content" 1fr
+      "main-content content1 content1" 1fr
       "footer footer footer" auto;
   }
 
