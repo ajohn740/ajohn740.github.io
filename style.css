@@ -1,4 +1,13 @@
-body{
+content {
+    display: grid;
+    gap: 10px;
+    grid-template:
+      "header header header" auto
+      "main-content content content" 1fr
+      "footer footer footer" auto;
+  }
+
+  body{
     font-family: Helvetica, Arial, sans-serif;
     margin: 0px;
 }
